@@ -1,0 +1,20 @@
+form{
+    margin: auto;
+}
+
+.active-worning{
+    border: 2px solid red;
+}
+
+.active-success{
+    border: 2px solid green;
+}
+
+input{
+    outline: none;
+    font-size: 20px;
+}
+
+span{
+    color: red;
+}
